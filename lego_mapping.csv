@@ -1,0 +1,46 @@
+shape_id,shape_name,lego_id,category
+shape_00,Brick 1x1,3005,Standard Brick
+shape_01,Brick 1x2,3004,Standard Brick
+shape_02,Brick 1x3,3622,Standard Brick
+shape_03,Brick 1x4,3010,Standard Brick
+shape_04,Brick 1x6,3009,Standard Brick
+shape_05,Brick 1x8,3008,Standard Brick
+shape_06,Brick 1x10,6111,Standard Brick
+shape_07,Brick 1x12,6112,Standard Brick
+shape_08,Brick 2x2 Corner,2357,Standard Brick
+shape_09,Brick 2x2,3003,Standard Brick
+shape_10,Brick 2x3,3002,Standard Brick
+shape_11,Brick 2x4,3001,Standard Brick
+shape_12,Brick 2x6,2456,Standard Brick
+shape_13,Brick 2x8,3007,Standard Brick
+shape_14,Brick 2x10,3006,Standard Brick
+shape_15,Brick 1x1 Round Open Stud,3062,Round Brick
+shape_16,Brick 2x2 Round,3941,Round Brick
+shape_17,Brick 2x2 Round Dome Top,3262,Round Brick
+shape_18,Brick 1x1 Stud One Side,87087,Non-Standard Brick
+shape_19,Brick 1x2 Studs One Side,11211,Non-Standard Brick
+shape_20,Brick 1x4 Four Studs One Side,30414,Non-Standard Brick
+shape_21,Plate 1x1,3024,Standard Plate
+shape_22,Plate 1x2,3023,Standard Plate
+shape_23,Plate 1x3,3623,Standard Plate
+shape_24,Plate 1x4,3710,Standard Plate
+shape_25,Plate 1x6,3666,Standard Plate
+shape_26,Plate 1x8,3460,Standard Plate
+shape_27,Plate 1x10,4477,Standard Plate
+shape_28,Plate 1x12,60479,Standard Plate
+shape_29,Plate 2x2 Corner,2420,Standard Plate
+shape_30,Plate 2x2,3022,Standard Plate
+shape_31,Plate 2x3,3021,Standard Plate
+shape_32,Plate 2x4,3020,Standard Plate
+shape_33,Plate 2x6,3795,Standard Plate
+shape_34,Plate 2x8,3034,Standard Plate
+shape_35,Plate 2x10,3832,Standard Plate
+shape_36,Plate 3x3,11212,Standard Plate
+shape_37,Plate 4x4,3031,Standard Plate
+shape_38,Plate 6x6,3958,Standard Plate
+shape_39,Plate 1x2 with 1 Stud,15573,Non-Standard Plate
+shape_40,Plate 2x2 Groove Center Stud,23893,Non-Standard Plate
+shape_41,Plate 1x2 with Handle,2540,Non-Standard Plate
+shape_42,Plate 1x1 Round,6141,Round Plate
+shape_43,Plate 2x2 Round Axle Hole,4032,Round Plate
+shape_44,Plate 4x4 Round with Hole,60474,Round Plate
